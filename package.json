@@ -1,0 +1,16 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "prestart": "buildDll.bat",
+    "start": "electron src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "4.0.4",
+    "electron-edge-js": "10.11.1"
+  }
+}

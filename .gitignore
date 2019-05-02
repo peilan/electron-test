@@ -1,0 +1,5 @@
+node_modules
+build
+src/WordIntegrator/.vs
+src/WordIntegrator/WordIntegrator/bin
+src/WordIntegrator/WordIntegrator/obj
